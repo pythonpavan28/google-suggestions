@@ -1,0 +1,45 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.google-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 30%;
+}
+.suggestions-container {
+  background-color: #ffffff;
+
+  width: 350px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  padding: 10px;
+}
+.search-container {
+  display: flex;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
+.inputElement {
+  background-color: #ffffff;
+  border: none;
+  border-color: #ffffff;
+  border-width: 0px;
+  border-style: solid;
+  width: 350px;
+}
+.list-container {
+  text-align: start;
+}
